@@ -1,1 +1,1 @@
-La documentación de el trabajo entero se encuentra en el otro repositorio, este repositorio si cuanta con explicaciones, en su código fuente
+La documentación de el Trabajo entero se encuentra en el otro repositorio, este repositorio si cuenta con explicaciones, en el código fuente, algunas funciones en el código no se utilizaron para el resultado final, puesto por que la Rubrica aclaraba cuales son los puntos que debía cumplir el Trabajo Final, pero consideramos importante para el aprendizaje dejar los códigos sin uso en el mismo
